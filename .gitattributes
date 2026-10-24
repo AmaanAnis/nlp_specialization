@@ -1,7 +1,4 @@
-*.zip filter=lfs diff=lfs merge=lfs -text
-stopwords.zip !text !filter !merge !diff
-twitter_samples.zip !text !filter !merge !diff
-punkt.zip !text !filter !merge !diff
+src/nlp_specialization/course_3/week_1/assignment.zip filter=lfs diff=lfs merge=lfs -text
 src/nlp_specialization/course_1/week_4/assignment/tmp2/corpora/twitter_samples/tweets.20150430-223406.json filter=lfs diff=lfs merge=lfs -text
 src/nlp_specialization/course_3/week_3/assignment/questions.csv filter=lfs diff=lfs merge=lfs -text
 src/nlp_specialization/course_3/week_3/assignment/model/trained_model.keras filter=lfs diff=lfs merge=lfs -text
