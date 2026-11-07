@@ -2,3 +2,7 @@ src/nlp_specialization/course_3/week_1/assignment.zip filter=lfs diff=lfs merge=
 src/nlp_specialization/course_1/week_4/assignment/tmp2/corpora/twitter_samples/tweets.20150430-223406.json filter=lfs diff=lfs merge=lfs -text
 src/nlp_specialization/course_3/week_3/assignment/questions.csv filter=lfs diff=lfs merge=lfs -text
 src/nlp_specialization/course_3/week_3/assignment/model/trained_model.keras filter=lfs diff=lfs merge=lfs -text
+*.arrow filter=lfs diff=lfs merge=lfs -text
+*.safetensors filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+src/nlp_specialization/course_4/week_3/hugging_face_labs/files.zip filter=lfs diff=lfs merge=lfs -text

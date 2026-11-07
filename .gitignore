@@ -8,3 +8,4 @@ wheels/
 
 # Virtual environments
 .venv
+src/nlp_specialization/course_4/week_3/hugging_face_labs/Files*/
